@@ -1,0 +1,11 @@
+.contact_header {
+  color: #169a2a;
+  font-weight: bold;
+}
+.contact_div {
+  background-color: rgba(15, 59, 59, 0.342);
+  border-radius: 20px;
+}
+.form-label {
+  font-weight: bold;
+}

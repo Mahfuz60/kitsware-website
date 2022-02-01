@@ -1,0 +1,12 @@
+.card img{
+  width:auto;
+  height:300px;
+  background-color:#0E304C;
+}
+.card-title{
+  color:rgb(5, 150, 5);
+  font-weight:bold;
+}
+.card-text{
+  color:rgb(61, 61, 61);
+}

@@ -43,7 +43,6 @@ const Contact = () => {
                   value={data.name}
                   onChange={InputEvent}
                   name="name"
-                  onChange={InputEvent}
                   placeholder="Enter Your FullName"
                 />
               </div>

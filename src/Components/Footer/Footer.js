@@ -27,7 +27,10 @@ const Footer = () => {
                   technologists who are focused on to fulfill the intrinsic
                   nature and indispensable quality of your desire.
                 </p>
-                <a className="footer_a" href="">
+                <a
+                  className="footer_a"
+                  href="https://www.facebook.com/kitsware"
+                >
                   Read more
                 </a>
               </div>
@@ -136,10 +139,22 @@ const Footer = () => {
                   <h3 className="mx-4 pt-3">More Info</h3>
                   <div className="service_list">
                     <ul>
-                      <li><FontAwesomeIcon icon={faAngleRight} />Privacy Policy</li>
-                      <li><FontAwesomeIcon icon={faAngleRight} />Refund and Return</li>
-                      <li><FontAwesomeIcon icon={faAngleRight} />Terms and Conditions</li>
-                      <li><FontAwesomeIcon icon={faAngleRight} />Wishlist</li>
+                      <li>
+                        <FontAwesomeIcon icon={faAngleRight} />
+                        Privacy Policy
+                      </li>
+                      <li>
+                        <FontAwesomeIcon icon={faAngleRight} />
+                        Refund and Return
+                      </li>
+                      <li>
+                        <FontAwesomeIcon icon={faAngleRight} />
+                        Terms and Conditions
+                      </li>
+                      <li>
+                        <FontAwesomeIcon icon={faAngleRight} />
+                        Wishlist
+                      </li>
                     </ul>
                   </div>
                 </div>
